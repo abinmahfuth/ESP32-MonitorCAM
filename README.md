@@ -1,7 +1,7 @@
 # ESP32-MonitorCAM V2
 <p align = "center">
-<img width="600" alt="Screenshot 2023-04-19 at 9 08 11 PM" src="https://user-images.githubusercontent.com/47085728/233163355-9d362055-a85c-4d1c-bb0d-d81dce5e7363.png">
-<img width="600" alt="Screenshot 2023-04-19 at 9 13 06 PM" src="https://user-images.githubusercontent.com/47085728/233163678-f4c33373-52ad-4c07-8abb-663742ab2d9f.png">
+<img width="600" alt="Screenshot 2023-05-27 at 11 50 02 AM" src="https://github.com/abinmahfuth/ESP32-MonitorCAM/assets/47085728/905b9f93-b00c-4f32-9ca6-0db31e4d56e3">
+<img width="600" alt="Screenshot 2023-05-27 at 11 50 18 AM" src="https://github.com/abinmahfuth/ESP32-MonitorCAM/assets/47085728/51102fab-33cb-4110-bc32-f4ceabebba46">
 </p>
 
 
